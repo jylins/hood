@@ -127,3 +127,13 @@ python test_cor.py \
     --load ./outputs/${DIRNAME}/seed_${seed}/checkpoints/ckp-99.pth \
     --num_to_avg 10
 ```
+
+## Citation
+```bibtex
+@article{lin2022out,
+  title={Out-of-Distribution Detection with Hilbert-Schmidt Independence Optimization},
+  author={Lin, Jingyang and Wang, Yu and Cai, Qi and Pan, Yingwei and Yao, Ting and Chao, Hongyang and Mei, Tao},
+  journal={arXiv preprint arXiv:2209.12807},
+  year={2022}
+}
+```
